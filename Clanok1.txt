@@ -5,3 +5,7 @@ Datum: 29.5.2020
 Toto je kreativny uvod clanku o teme popisanej vyssie. 
 Tento uvod blabla
 bla
+----
+Obsah prvej
+verzie
+tohto clanku
